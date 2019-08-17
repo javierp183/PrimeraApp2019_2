@@ -1,0 +1,11 @@
+c:\users\javier pereyra\source\repos\PrimeraApp2019_2\WinApp\bin\Debug\WinApp.exe.config
+c:\users\javier pereyra\source\repos\PrimeraApp2019_2\WinApp\bin\Debug\WinApp.exe
+c:\users\javier pereyra\source\repos\PrimeraApp2019_2\WinApp\bin\Debug\WinApp.pdb
+c:\users\javier pereyra\source\repos\PrimeraApp2019_2\WinApp\obj\Debug\WinApp.csprojAssemblyReference.cache
+c:\users\javier pereyra\source\repos\PrimeraApp2019_2\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+c:\users\javier pereyra\source\repos\PrimeraApp2019_2\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+c:\users\javier pereyra\source\repos\PrimeraApp2019_2\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+c:\users\javier pereyra\source\repos\PrimeraApp2019_2\WinApp\obj\Debug\WinApp.exe
+c:\users\javier pereyra\source\repos\PrimeraApp2019_2\WinApp\obj\Debug\WinApp.pdb
+c:\users\javier pereyra\source\repos\PrimeraApp2019_2\WinApp\obj\Debug\WinApp.Form1.resources
+C:\Users\Javier Pereyra\source\repos\PrimeraApp2019_2\WinApp\obj\Debug\WinApp.VentanaDos.resources
